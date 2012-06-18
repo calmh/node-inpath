@@ -1,6 +1,8 @@
 inpath
 ======
 
+[![build status](https://secure.travis-ci.org/calmh/node-inpath.png)](http://travis-ci.org/calmh/node-inpath)
+
 Find an executable in the `$PATH`.
 
 Example
